@@ -1,0 +1,12 @@
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\bin\Debug\uyegirisi.exe.config
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\bin\Debug\uyegirisi.exe
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\bin\Debug\uyegirisi.pdb
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.csprojAssemblyReference.cache
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.login.resources
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.Properties.Resources.resources
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.sign.resources
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.csproj.GenerateResource.cache
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.exe
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.pdb
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.kontrol.resources
+C:\Users\Batuhan\source\repos\uyegirisi\uyegirisi\obj\Debug\uyegirisi.csproj.CoreCompileInputs.cache
